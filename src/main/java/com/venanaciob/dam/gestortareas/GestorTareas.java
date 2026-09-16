@@ -26,7 +26,7 @@ public class GestorTareas {
 
         return tarea;
     }
-
+    //Implemento funcion listar tareas
     public List<Tarea> obtenerTareas() {
         return new ArrayList<>(tareas);
     }
