@@ -1,0 +1,10 @@
+# Carpetas de compilación
+target/
+bin/
+
+# Archivos del IDE
+.idea/
+*.iml
+.settings/
+.classpath
+.project
