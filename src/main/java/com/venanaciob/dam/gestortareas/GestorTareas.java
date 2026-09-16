@@ -12,7 +12,7 @@ public class GestorTareas {
         tareas = new ArrayList<>();
         siguienteId = 1;
     }
-
+    //Implemento funcion crearTarea
     public Tarea crearTarea(String descripcion) {
 
         if (descripcion == null || descripcion.isBlank()) {
